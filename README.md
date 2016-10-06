@@ -8,3 +8,5 @@ Added feature2
   - add part3 - update
   - add part4
   - add part5
+  
+Added feature3
