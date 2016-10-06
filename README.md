@@ -3,4 +3,5 @@ Added feature1
   
   
 Added feature2
-  - feature2. part1 added
+  - feature2. part1 added, modified
+  - feature2. part2 added
