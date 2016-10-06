@@ -14,3 +14,9 @@ Added feature3
   - add part2
 
   - add part3 
+
+delete remote branch - git push origin --delete feature3
+delete local branch - git branch -d feature3
+
+
+git merge --ff-only feature (with master checked out)
