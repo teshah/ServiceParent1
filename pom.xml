@@ -4,7 +4,7 @@
 
     <groupId>TestRelease</groupId>
     <artifactId>service-parent1</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>pom</packaging>
 
     <name>Services Parent</name>
@@ -64,6 +64,7 @@
         <url>https://github.com/teshah/ServiceParent1</url>
         <connection>scm:git:git://github.com/teshah/ServiceParent1.git</connection>
         <developerConnection>scm:git:git@github.com:teshah/ServiceParent1.git</developerConnection>
-    </scm>
+      <tag>service-parent1-1.0</tag>
+  </scm>
 
 </project>
